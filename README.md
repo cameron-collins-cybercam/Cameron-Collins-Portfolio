@@ -70,7 +70,34 @@ TestOut Ethical Hacking Pro (Expected September 2026)
 
 ## Professional Experience
 
----
+Best Buy (2003–Present)
+
+Consumer Electronics Technician
+
+Enterprise hardware troubleshooting
+Endpoint deployment
+Network installation
+Router configuration
+Commercial and residential networking
+Technical support
+Harrah's Casino
+
+Casino Information Technology Specialist
+
+Gaming infrastructure
+Network administration
+Systems support
+Security monitoring
+Compliance support
+Meediya Consulting
+
+Cybersecurity & OSINT Case Investigator
+
+Passive reconnaissance
+Digital forensics
+Metadata analysis
+Python automation
+Technical reporting
 
 ## GitHub Repositories
 
