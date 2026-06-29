@@ -72,34 +72,58 @@ TestOut Ethical Hacking Pro (Expected September 2026)
 
 Best Buy (2003–Present)
 
-Consumer Electronics Technician
+*Consumer Electronics Technician
+*Enterprise hardware troubleshooting
+*Endpoint deployment
+*Network installation
+*Router configuration
+*Commercial and residential networking
+*Technical support
 
-Enterprise hardware troubleshooting
-Endpoint deployment
-Network installation
-Router configuration
-Commercial and residential networking
-Technical support
 Harrah's Casino
 
-Casino Information Technology Specialist
+*Casino Information Technology Specialist
+*Gaming infrastructure
+*Network administration
+*Systems support
+*Security monitoring
+*Compliance support
 
-Gaming infrastructure
-Network administration
-Systems support
-Security monitoring
-Compliance support
 Meediya Consulting
 
 Cybersecurity & OSINT Case Investigator
 
-Passive reconnaissance
-Digital forensics
-Metadata analysis
-Python automation
-Technical reporting
+*Passive reconnaissance
+*Digital forensics
+*Metadata analysis
+*Python automation
+*Technical reporting
 
 ## GitHub Repositories
+
+## Core Competencies
+
+*Security Engineering
+
+*Detection Engineering
+
+*Security Operations (SOC)
+
+*Enterprise Infrastructure
+
+*Cloud Security
+
+*Incident Response
+
+*Network Engineering
+
+*Vulnerability Assessment
+
+*Risk Assessment
+
+*Digital Forensics
+
+*Python Automation
 
 ---
 
