@@ -22,8 +22,8 @@ Associate of Science – Information Technology
 
 Associate of Science – Recording Arts
 
-Bachelor of Science – Information Technology & Cybersecurity
-(Expected September 2026)
+Bachelor of Science in Information Technology, Concentration in Cybersecurity
+Expected September 2026
 
 4.0 GPA
 
